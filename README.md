@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 I'm Sanjana Navarathne, 
-- a third year Computer Science undergraduate at University of Colombo School of Computing
+- a final year Computer Science undergraduate at University of Colombo School of Computing
 - who is eager to gain new knowledge and develop skills to serve as an inspiring leader
 
 #### Familiar tools and technologies
